@@ -1,0 +1,9 @@
+# vscode files #
+################
+.vscode/
+
+# build files #
+###############
+*.o
+*.a
+fct
